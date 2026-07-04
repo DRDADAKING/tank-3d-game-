@@ -1,2 +1,2 @@
-# tank-3d-game-
-Making a 3d tank game 
+Make a Battle Game for Web and Mobile
+I'm building a 3D tank battle game using Unity Learn to improve my game development skills. Throughout this project, I'll learn how to create player controls, tank movement, shooting mechanics, physics, camera systems, UI, sound effects, and game logic. I'll also explore how to optimize and deploy the game for both web and mobile platforms. My goal is to understand the Unity workflow by building a complete, playable game while gaining hands-on experience with real game development concepts.
