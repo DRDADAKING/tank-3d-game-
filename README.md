@@ -1,2 +1,22 @@
 Make a Battle Game for Web and Mobile
-I'm building a 3D tank battle game using Unity Learn to improve my game development skills. Throughout this project, I'll learn how to create player controls, tank movement, shooting mechanics, physics, camera systems, UI, sound effects, and game logic. I'll also explore how to optimize and deploy the game for both web and mobile platforms. My goal is to understand the Unity workflow by building a complete, playable game while gaining hands-on experience with real game development concepts.
+🎮 About the Project
+
+This project is part of the Unity Learn pathway. The goal is to build a 3D tank battle game while learning the fundamentals of Unity game development. Throughout the project, I will create a playable game featuring tank movement, shooting mechanics, physics, camera controls, UI, and sound effects.
+Objectives
+
+🚀Learn the Unity Editor and workflow.
+Implement player movement and controls.
+Create shooting and combat mechanics.
+Use Unity's physics system.
+Design a simple user interface.
+Optimize the game for web and mobile platforms.
+Gain hands-on experience by completing a full game project.
+📌 Current Status
+
+🚧 In Progress
+
+I'm following the Unity Learn course step by step while experimenting with features on my own to better understand how everything works.
+
+🎯 Goal
+
+By the end of this project, I aim to have a fully playable tank battle game that runs smoothly on both web browsers and mobile devices.
